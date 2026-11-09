@@ -4,7 +4,7 @@ An online bulletin board web application built with Laravel 12, Eloquent ORM, an
 
 ---
 
-## 📌 Personalized Lab Details
+##  Personalized Lab Details
 - **Barangay Bulletin Title**: `Barangay Bulletin - Purok Rocamora`
 - **Student Last Name**: Rocamora
 - **Posts Per Page**: `8` (Derived from the 8 letters in "Rocamora")
